@@ -31,3 +31,5 @@ Published work on social casino users suggests several recurring motives: fun/ex
 
 B. Why immersion matters to design
 Put players in an immersive absorbed state in which players lose track of time or surroundings with celebratory sounds, visual flashes, win pacing, and session cadence. Have high contrast bright color design with satisfying animations.
+
+Sirtaj-Researched and summarized parts 1a-1f and 2a-2b.
